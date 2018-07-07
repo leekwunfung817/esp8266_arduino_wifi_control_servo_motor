@@ -1,8 +1,8 @@
 const int Servo_gpio_pin = 2;
 const int http_server_port = 80;
 
-const char* ssid = "LEE FAMILY";
-const char* password = "aaa91269984bb";
+const char* ssid = "WifiName";
+const char* password = "WifiPassword";
 
 #include <ESP8266WiFi.h>
 #include <Servo.h>
